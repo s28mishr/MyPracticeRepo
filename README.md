@@ -1,2 +1,1 @@
-#MyApp
-This is my App.
+This is my practice Repo
